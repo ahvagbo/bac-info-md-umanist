@@ -1,0 +1,5 @@
+# Git ignore file for bac-info-md-umanist
+# 2023 Iurie Jurja
+
+*.exe
+*.o
