@@ -21,4 +21,5 @@ begin
       d := d + start(u);
     end;
   writeln(d);
+  close(f);
 end.
