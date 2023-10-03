@@ -1,6 +1,6 @@
 {
   Se da un tablou liniar cu n componente numere intregi si un numar intreg m.
-  Determinati daca printe valorile componentelor se contine valoarea data m.
+  Determinati daca printre valorile componentelor se contine valoarea data m.
 }
 
 program TDS8;
